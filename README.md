@@ -1,79 +1,61 @@
-🚀 Robot Invasion is a 3D action-survival game built in Unity, where the player explores a canyon-like environment and battles different types of hostile robots. The goal is to survive waves of enemies, collect points, and manage limited player lives.
+🤖 Robot Invasion
 
-🎮 Game Features
+A fast-paced 3D shooter game where you fight waves of invading robots. Built in Unity as part of my game development work.
 
-🤖 Multiple enemy robots with different behaviors
+🎮 Features
 
-🔫 Shooting mechanics with projectiles
+Player Shooting System – Smooth FPS-style shooting mechanics
 
-❤️ Player health & life system
+Robot Enemy AI – Enemies chase, attack, and try to overwhelm the player
 
-📈 Score counter (updates in real-time)
+Wave System – Difficulty increases as more waves spawn
 
-🌄 3D canyon environment
+Health & Damage System – Player can take damage, heal, and survive longer
 
-🎯 Enemy AI (movement + attack logic)
+Score Tracking – Earn points for each robot destroyed
 
-🧩 Collectibles / Powerups (optional: add if you have them)
+Simple UI – Health bar, score, and wave information
 
-🎚️ UI elements like score, lives, and health bar
+📷 Screenshots
+<img width="1919" height="1079" alt="Screenshot 2025-11-18 232427" src="https://github.com/user-attachments/assets/f3bb4998-e1bb-45f3-adf1-89d27bae4c8c" />
+<img width="1893" height="1079" alt="Screenshot 2025-11-18 232540" src="https://github.com/user-attachments/assets/491abc7e-82d9-49d1-9ea2-107185b7ef6e" />
+<img width="1886" height="1079" alt="Screenshot 2025-11-18 232629" src="https://github.com/user-attachments/assets/4e11efb2-4850-44d8-98a7-568eede2e59c" />
+<img width="1918" height="1079" alt="Screenshot 2025-11-18 232722" src="https://github.com/user-attachments/assets/402fc5f6-b466-4c1c-a867-f603d6844c28" />
 
-🎵 Sound effects & background music (if added)
+🛠️ How to Play
 
-🧰 Technologies Used
+Move with WASD / Arrow keys
 
-Unity 3D
+Aim with Mouse
 
-C# Scripting
+Shoot with Left Click
 
-NavMesh / AI (if used)
+Survive as long as possible and defeat the robots!
 
-Unity UI System
+Links
 
-Blender / Asset Store Models (if used)
+🎮 Play on Itch.io → https://aryashrishti76.itch.io/robot-invasion
 
-Particle System (for bullets/explosions)
+🔧 Tech Stack
 
-🕹️ How to Play
+Game Engine: Unity
 
-Move the player using WASD / Arrow Keys
+Language: C#
 
-Aim and shoot enemies
+Platform: Windows
 
-Survive as long as possible
+✨ Future Improvements
 
-Each destroyed robot increases your Score
+Add new robot variants (fast robots, heavy robots, flying robots)
 
-📁 Project Structure
+Add weapon upgrades (rapid fire, shotgun, laser)
 
-Assets/Scripts/ – Player, Enemy AI, UI scripts
+Add power-ups (shield, speed boost, health pack)
 
-Assets/Prefabs/ – Robots, bullets, environment objects
+Add sound effects & background music
 
-Assets/Scenes/ – Main game scene
+Improve UI/UX (hit indicator, wave counter animation)
 
-Assets/UI/ – HUD elements, icons, etc.
+Add a Boss Robot every few waves
 
-📸 Screenshots Screenshot 2025-11-18 232427 Screenshot 2025-11-18 232540 Screenshot 2025-11-18 232629
-
-🛠️ How to Run
-
-Download or clone the repository
-
-Open the project in Unity 2021/2022 LTS
-
-Open the MainScene
-
-Press Play to start the game
-
-📌 Future Improvements
-
-Add more enemy types
-
-Add boss battle
-
-Add levels or wave system
-
-Add inventory and upgrades
-
-Add mobile controls
+Add a settings menu (audio, sensitivity, graphics)
